@@ -40,4 +40,4 @@ input. HUD elements show score and objective progress. Simple and non-distractin
 ● Multiplayer mode
 ● Enhanced graphics and audio
 10.Acknowledgments
-1. Unity Tutorial
+  Unity Tutorial
